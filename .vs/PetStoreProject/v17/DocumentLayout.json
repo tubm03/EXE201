@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|d:\\syllabus\\2025_spring\\exe101\\petstoreproject\\petstoreproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|solutionrelative:petstoreproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|d:\\syllabus\\2025_spring\\exe101\\petstoreproject\\petstoreproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|solutionrelative:petstoreproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|d:\\syllabus\\2025_spring\\exe101\\petstoreproject\\petstoreproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|solutionrelative:petstoreproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|d:\\syllabus\\2025_spring\\exe101\\petstoreproject\\petstoreproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|solutionrelative:petstoreproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|d:\\syllabus\\2025_spring\\exe101\\petstoreproject\\petstoreproject\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|solutionrelative:petstoreproject\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|d:\\syllabus\\2025_spring\\exe101\\petstoreproject\\petstoreproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|solutionrelative:petstoreproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|d:\\syllabus\\2025_spring\\exe101\\petstoreproject\\petstoreproject\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|solutionrelative:petstoreproject\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|d:\\syllabus\\2025_spring\\exe101\\petstoreproject\\petstoreproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|solutionrelative:petstoreproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|d:\\syllabus\\2025_spring\\exe101\\petstoreproject\\petstoreproject\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|solutionrelative:petstoreproject\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|d:\\syllabus\\2025_spring\\exe101\\petstoreproject\\petstoreproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D337497-F0AD-482E-9EF6-5C94B28B0F59}|PetStoreProject\\PetStoreProject.csproj|solutionrelative:petstoreproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\appsettings.json",
+              "RelativeDocumentMoniker": "PetStoreProject\\appsettings.json",
+              "ToolTip": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\appsettings.json",
+              "RelativeToolTip": "PetStoreProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T01:16:24.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PetStoreProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PetStoreProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T13:41:09.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PetStoreProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PetStoreProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T13:41:03.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PetStoreProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PetStoreProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T13:41:02.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "PetStoreProject\\Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "PetStoreProject\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:00:56.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PetStoreProject\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PetStoreProject\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:00:48.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutUsController.cs",
+              "DocumentMoniker": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Controllers\\AboutUsController.cs",
+              "RelativeDocumentMoniker": "PetStoreProject\\Controllers\\AboutUsController.cs",
+              "ToolTip": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Controllers\\AboutUsController.cs",
+              "RelativeToolTip": "PetStoreProject\\Controllers\\AboutUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:00:46.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetStoreProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PetStoreProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T18:49:13.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PetStoreProject\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PetStoreProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAWwJgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:33:43.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Views\\Product\\Product.cshtml",
+              "RelativeDocumentMoniker": "PetStoreProject\\Views\\Product\\Product.cshtml",
+              "ToolTip": "D:\\Syllabus\\2025_Spring\\EXE101\\PetStoreProject\\PetStoreProject\\Views\\Product\\Product.cshtml",
+              "RelativeToolTip": "PetStoreProject\\Views\\Product\\Product.cshtml",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAUwO0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:33:27.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

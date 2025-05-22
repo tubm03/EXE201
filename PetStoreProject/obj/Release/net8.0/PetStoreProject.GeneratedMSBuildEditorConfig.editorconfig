@@ -1,0 +1,423 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PetStoreProject
+build_property.RootNamespace = PetStoreProject
+build_property.ProjectDir = D:\Syllabus\2025_Spring\SWD392\swp-pet-store-main\PetStoreProject\PetStoreProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Syllabus\2025_Spring\SWD392\swp-pet-store-main\PetStoreProject\PetStoreProject
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Account/CustomerDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxDdXN0b21lckRldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Account/CustomerInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxDdXN0b21lckluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Account/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Account/ListCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxMaXN0Q3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Account/ListShipper.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxMaXN0U2hpcHBlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Account/OrderHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxPcmRlckhpc3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Account/OrderServiceHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxPcmRlclNlcnZpY2VIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Account/SelectDistrictIframe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxTZWxlY3REaXN0cmljdElmcmFtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Account/ShipperDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxTaGlwcGVyRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Account/ShipperManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxTaGlwcGVyTWFuYWdlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Category/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Category/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Consultation/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29uc3VsdGF0aW9uXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Discount/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Discount/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Discount/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/LoyalCustomer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG95YWxDdXN0b21lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Order/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Order/ListOrderHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcTGlzdE9yZGVySGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/ProductCategory/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Product/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Promotion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvbW90aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Promotion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvbW90aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Promotion/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvbW90aW9uXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Service/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Service/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Service/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Service/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Shared/_AddViewAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZGRWaWV3QWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/Shared/_QuickViewAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9RdWlja1ZpZXdBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Consultation/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcQ29uc3VsdGF0aW9uXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Discount/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcRGlzY291bnRcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Feedback/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcRmVlZGJhY2tcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/LoyalCustomer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcTG95YWxDdXN0b21lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/News/CreateNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcTmV3c1xDcmVhdGVOZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/News/EditNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcTmV3c1xFZGl0TmV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/News/ListNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcTmV3c1xMaXN0TmV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Order/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcT3JkZXJcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Order/ListOrderHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcT3JkZXJcTGlzdE9yZGVySGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Promotion/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcUHJvbW90aW9uXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Service/AddNewOrderService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcU2VydmljZVxBZGROZXdPcmRlclNlcnZpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Service/ListOrderService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcU2VydmljZVxMaXN0T3JkZXJTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Service/ListService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcU2VydmljZVxMaXN0U2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Service/OrderServiceDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcU2VydmljZVxPcmRlclNlcnZpY2VEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Service/ServiceDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcU2VydmljZVxTZXJ2aWNlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Employee/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Shipper/Views/Order/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hpcHBlclxWaWV3c1xPcmRlclxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Shipper/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hpcHBlclxWaWV3c1xQcm9kdWN0XERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Shipper/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hpcHBlclxWaWV3c1xQcm9kdWN0XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Shipper/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hpcHBlclxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Shipper/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hpcHBlclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Areas/Shipper/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hpcHBlclxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/AboutUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/OrderHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxPcmRlckhpc3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/OrderHistoryDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxPcmRlckhpc3RvcnlEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/OrderServiceDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxPcmRlclNlcnZpY2VEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/OrderServiceHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxPcmRlclNlcnZpY2VIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/ProfileDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Cart/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Checkout/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Checkout/NotificationPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcTm90aWZpY2F0aW9uUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Consultation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGF0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/News/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/News/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Product/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Product/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Service/BookService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxCb29rU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Service/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Service/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Shared/_Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Shared/_BreadCumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CcmVhZEN1bWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Shared/_ChangePasswordUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DaGFuZ2VQYXNzd29yZFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Shared/_ProfileUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9maWxlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/Shared/_QuickView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9RdWlja1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/WishList/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lzaExpc3RcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Syllabus/2025_Spring/SWD392/swp-pet-store-main/PetStoreProject/PetStoreProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

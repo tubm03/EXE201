@@ -1,0 +1,1865 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\areas\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\animation.css",
+      "PackagePath": "staticwebassets\\areas\\css\\animation.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\areas\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\areas\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\list-order-history.css",
+      "PackagePath": "staticwebassets\\areas\\css\\list-order-history.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\list-order-service-style.css",
+      "PackagePath": "staticwebassets\\areas\\css\\list-order-service-style.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\list-order-shipper-style.css",
+      "PackagePath": "staticwebassets\\areas\\css\\list-order-shipper-style.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\list-service-style.css",
+      "PackagePath": "staticwebassets\\areas\\css\\list-service-style.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\list-shipper-style.css",
+      "PackagePath": "staticwebassets\\areas\\css\\list-shipper-style.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\list-user-style.css",
+      "PackagePath": "staticwebassets\\areas\\css\\list-user-style.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\manage-service-style.css",
+      "PackagePath": "staticwebassets\\areas\\css\\manage-service-style.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\style.css",
+      "PackagePath": "staticwebassets\\areas\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\style1.css",
+      "PackagePath": "staticwebassets\\areas\\css\\style1.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\areas\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\font\\fonts.css",
+      "PackagePath": "staticwebassets\\areas\\font\\fonts.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\icon\\fonts\\icomoon93d9.eot",
+      "PackagePath": "staticwebassets\\areas\\icon\\fonts\\icomoon93d9.eot"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\icon\\fonts\\icomoon93d9.svg",
+      "PackagePath": "staticwebassets\\areas\\icon\\fonts\\icomoon93d9.svg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\icon\\fonts\\icomoon93d9.ttf",
+      "PackagePath": "staticwebassets\\areas\\icon\\fonts\\icomoon93d9.ttf"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\icon\\fonts\\icomoon93d9.woff",
+      "PackagePath": "staticwebassets\\areas\\icon\\fonts\\icomoon93d9.woff"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\icon\\style.css",
+      "PackagePath": "staticwebassets\\areas\\icon\\style.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\apps\\item-1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\apps\\item-1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\apps\\item-2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\apps\\item-2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\apps\\item-3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\apps\\item-3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\apps\\item-4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\apps\\item-4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\apps\\item-5.png",
+      "PackagePath": "staticwebassets\\areas\\images\\apps\\item-5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\apps\\item-6.png",
+      "PackagePath": "staticwebassets\\areas\\images\\apps\\item-6.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\apps\\item-7.png",
+      "PackagePath": "staticwebassets\\areas\\images\\apps\\item-7.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\apps\\item-8.png",
+      "PackagePath": "staticwebassets\\areas\\images\\apps\\item-8.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\apps\\item-9.png",
+      "PackagePath": "staticwebassets\\areas\\images\\apps\\item-9.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-10.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-10.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-11.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-11.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-12.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-12.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-13.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-13.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-14.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-14.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-15.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-15.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-5.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-6.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-6.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-7.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-7.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-8.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-8.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\avatar\\user-9.png",
+      "PackagePath": "staticwebassets\\areas\\images\\avatar\\user-9.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\bg-menu\\img-1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\bg-menu\\img-1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\bg-menu\\img-2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\bg-menu\\img-2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\bg-menu\\img-3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\bg-menu\\img-3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\bg-menu\\img-4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\bg-menu\\img-4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\bg-menu\\img-5.png",
+      "PackagePath": "staticwebassets\\areas\\images\\bg-menu\\img-5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\carton_null.jpg",
+      "PackagePath": "staticwebassets\\areas\\images\\carton_null.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\10.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\10.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\11.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\11.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\5.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\6.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\6.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\7.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\7.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\8.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\8.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\country\\9.png",
+      "PackagePath": "staticwebassets\\areas\\images\\country\\9.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\areas\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-10.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-10.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-11.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-11.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-12.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-12.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-5.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-6.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-6.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-7.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-7.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-8.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-8.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery-9.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery-9.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\all-gallery.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\all-gallery.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\gallery-1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\gallery-1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\gallery-2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\gallery-2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\gallery-3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\gallery-3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\gallery-4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\gallery-4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\goal.jpg",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\goal.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\images-section\\track-oder-1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\images-section\\track-oder-1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\item-background\\history.png",
+      "PackagePath": "staticwebassets\\areas\\images\\item-background\\history.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\item-background\\payment-1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\item-background\\payment-1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\item-background\\payment-2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\item-background\\payment-2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\item-background\\payment-3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\item-background\\payment-3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\item-background\\payment-4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\item-background\\payment-4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\item-background\\paypal.png",
+      "PackagePath": "staticwebassets\\areas\\images\\item-background\\paypal.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\logo\\logo-dark.png",
+      "PackagePath": "staticwebassets\\areas\\images\\logo\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\areas\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\logo_user\\User-avatar.svg.png",
+      "PackagePath": "staticwebassets\\areas\\images\\logo_user\\User-avatar.svg.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\menu-left\\img-bot.png",
+      "PackagePath": "staticwebassets\\areas\\images\\menu-left\\img-bot.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\10.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\10.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\11.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\11.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\12.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\12.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\13.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\13.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\14.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\14.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\15.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\15.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\16.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\16.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\17.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\17.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\18.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\18.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\19.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\19.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\20.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\20.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\21.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\21.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\22.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\22.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\23.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\23.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\24.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\24.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\25.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\25.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\26.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\26.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\27.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\27.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\28.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\28.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\29.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\29.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\30.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\30.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\31.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\31.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\32.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\32.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\33.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\33.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\34.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\34.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\35.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\35.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\36.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\36.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\37.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\37.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\38.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\38.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\39.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\39.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\40.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\40.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\41.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\41.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\42.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\42.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\43.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\43.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\44.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\44.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\45.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\45.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\46.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\46.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\47.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\47.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\48.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\48.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\49.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\49.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\5.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\50.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\50.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\51.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\51.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\52.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\52.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\53.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\53.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\54.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\54.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\55.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\55.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\56.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\56.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\57.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\57.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\58.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\58.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\59.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\59.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\6.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\6.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\60.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\60.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\7.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\7.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\8.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\8.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\9.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\9.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\product-detail-1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\product-detail-1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\product-detail-2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\product-detail-2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\product-detail-3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\product-detail-3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\product-detail-4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\product-detail-4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\product-detail-5.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\product-detail-5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\product-detail-thumbs-1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\product-detail-thumbs-1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\product-detail-thumbs-2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\product-detail-thumbs-2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\product-detail-thumbs-3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\product-detail-thumbs-3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\product-detail-thumbs-4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\product-detail-thumbs-4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\products\\product-detail-thumbs-5.png",
+      "PackagePath": "staticwebassets\\areas\\images\\products\\product-detail-thumbs-5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\red-trash-can-icon.png",
+      "PackagePath": "staticwebassets\\areas\\images\\red-trash-can-icon.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\shop\\1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\shop\\1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\shop\\2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\shop\\2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\shop\\3.png",
+      "PackagePath": "staticwebassets\\areas\\images\\shop\\3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\shop\\4.png",
+      "PackagePath": "staticwebassets\\areas\\images\\shop\\4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\shop\\5.png",
+      "PackagePath": "staticwebassets\\areas\\images\\shop\\5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\shop\\6.png",
+      "PackagePath": "staticwebassets\\areas\\images\\shop\\6.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\shop\\7.png",
+      "PackagePath": "staticwebassets\\areas\\images\\shop\\7.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\upload\\upload-1.png",
+      "PackagePath": "staticwebassets\\areas\\images\\upload\\upload-1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\images\\upload\\upload-2.png",
+      "PackagePath": "staticwebassets\\areas\\images\\upload\\upload-2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-1.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-1.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-10.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-10.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-11.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-11.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-12.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-12.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-13.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-13.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-14.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-14.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-15.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-15.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-16.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-16.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-17.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-17.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-18.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-18.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-19.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-19.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-2.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-2.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-20.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-20.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-21.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-21.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-22.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-22.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-3.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-3.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-4.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-4.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-5.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-5.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-6.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-6.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-7.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-7.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-8.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-8.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\apexcharts\\line-chart-9.js",
+      "PackagePath": "staticwebassets\\areas\\js\\apexcharts\\line-chart-9.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\areas\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\areas\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\carousel.js",
+      "PackagePath": "staticwebassets\\areas\\js\\carousel.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\detail-service.js",
+      "PackagePath": "staticwebassets\\areas\\js\\detail-service.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\areas\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\areas\\js\\jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\jvectormap-us-lcc.js",
+      "PackagePath": "staticwebassets\\areas\\js\\jvectormap-us-lcc.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\jvectormap.js",
+      "PackagePath": "staticwebassets\\areas\\js\\jvectormap.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\list-order-history.js",
+      "PackagePath": "staticwebassets\\areas\\js\\list-order-history.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\list-productcate.js",
+      "PackagePath": "staticwebassets\\areas\\js\\list-productcate.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\list-service.js",
+      "PackagePath": "staticwebassets\\areas\\js\\list-service.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\list-user.js",
+      "PackagePath": "staticwebassets\\areas\\js\\list-user.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\main.js",
+      "PackagePath": "staticwebassets\\areas\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\manage-service.js",
+      "PackagePath": "staticwebassets\\areas\\js\\manage-service.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\morris.js",
+      "PackagePath": "staticwebassets\\areas\\js\\morris.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\morris.min.js",
+      "PackagePath": "staticwebassets\\areas\\js\\morris.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\raphael.min.js",
+      "PackagePath": "staticwebassets\\areas\\js\\raphael.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\areas\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\switcher.js",
+      "PackagePath": "staticwebassets\\areas\\js\\switcher.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\theme-settings.js",
+      "PackagePath": "staticwebassets\\areas\\js\\theme-settings.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\tinymce\\tinymce-custom.js",
+      "PackagePath": "staticwebassets\\areas\\js\\tinymce\\tinymce-custom.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\areas\\js\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\areas\\js\\zoom.js",
+      "PackagePath": "staticwebassets\\areas\\js\\zoom.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\Search.css",
+      "PackagePath": "staticwebassets\\css\\Search.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\checkout_style.css",
+      "PackagePath": "staticwebassets\\css\\checkout_style.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\default.css",
+      "PackagePath": "staticwebassets\\css\\default.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\css\\icofont.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-bg_glass_85_dfeffc_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-icons_217bc0_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_217bc0_256x240.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-icons_2e83ff_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_2e83ff_256x240.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-icons_469bdd_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_469bdd_256x240.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-icons_6da8d5_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_6da8d5_256x240.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-icons_cd0a0a_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cd0a0a_256x240.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-icons_d8e7f3_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_d8e7f3_256x240.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\images\\ui-icons_f9bd01_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_f9bd01_256x240.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\myStyle.css",
+      "PackagePath": "staticwebassets\\css\\myStyle.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\slick-slider.css",
+      "PackagePath": "staticwebassets\\css\\slick-slider.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\fonts\\georgia_italic-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\georgia_italic-webfont.woff"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\fonts\\georgia_italic-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\georgia_italic-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\404.png",
+      "PackagePath": "staticwebassets\\img\\404.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\COD.jpg",
+      "PackagePath": "staticwebassets\\img\\COD.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\VNpay.png",
+      "PackagePath": "staticwebassets\\img\\VNpay.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\access-denied.png",
+      "PackagePath": "staticwebassets\\img\\access-denied.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\banner_1.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\banner_2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\banner_3.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\banner_4.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\banner_5.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\banner_6.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_6.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\banner_7.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_7.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\banner_8.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_8.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\best_feature.png",
+      "PackagePath": "staticwebassets\\img\\banner\\best_feature.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\best_feature_2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\best_feature_2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\best_item_1.png",
+      "PackagePath": "staticwebassets\\img\\banner\\best_item_1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\best_item_2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\best_item_2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\best_pet_food_1.png",
+      "PackagePath": "staticwebassets\\img\\banner\\best_pet_food_1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\best_pet_food_2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\best_pet_food_2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\best_pet_food_3.png",
+      "PackagePath": "staticwebassets\\img\\banner\\best_pet_food_3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\lookbook_banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\lookbook_banner.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\mega_menu.png",
+      "PackagePath": "staticwebassets\\img\\banner\\mega_menu.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\mega_menu_2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\mega_menu_2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\product_banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\product_banner.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\product_banner_2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\product_banner_2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\product_banner_3.png",
+      "PackagePath": "staticwebassets\\img\\banner\\product_banner_3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\product_banner_4.png",
+      "PackagePath": "staticwebassets\\img\\banner\\product_banner_4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\promotoion_banner_1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\promotoion_banner_1.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\promotoion_banner_2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\promotoion_banner_2.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\banner\\summer_sale.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\summer_sale.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\bg\\app_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\app_bg.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\bg\\breadcrumb_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\breadcrumb_bg.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\bg\\breadcrumb_bg_2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\breadcrumb_bg_2.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\bg\\countdown_img.png",
+      "PackagePath": "staticwebassets\\img\\bg\\countdown_img.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\bg\\footer_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\footer_bg.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\bg\\footer_bg_2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\footer_bg_2.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\bg\\promotion-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\promotion-1.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blg10.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blg10.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blg11.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blg11.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blg8.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blg8.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blg9.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blg9.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_1.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_2.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_3.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blog_4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_4.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blog_5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_5.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blog_6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_6.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\blog\\blog_details.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_details.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\brand\\b1.png",
+      "PackagePath": "staticwebassets\\img\\brand\\b1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\brand\\b2.png",
+      "PackagePath": "staticwebassets\\img\\brand\\b2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\brand\\b3.png",
+      "PackagePath": "staticwebassets\\img\\brand\\b3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\brand\\b4.png",
+      "PackagePath": "staticwebassets\\img\\brand\\b4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\brand\\b5.png",
+      "PackagePath": "staticwebassets\\img\\brand\\b5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\cart-empty-img.8b677cb3.png",
+      "PackagePath": "staticwebassets\\img\\cart-empty-img.8b677cb3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\coupon.png",
+      "PackagePath": "staticwebassets\\img\\coupon.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\header\\1.html",
+      "PackagePath": "staticwebassets\\img\\header\\1.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\header\\2.html",
+      "PackagePath": "staticwebassets\\img\\header\\2.html"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\1.png",
+      "PackagePath": "staticwebassets\\img\\icons\\1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\10.png",
+      "PackagePath": "staticwebassets\\img\\icons\\10.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\11.png",
+      "PackagePath": "staticwebassets\\img\\icons\\11.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\12.png",
+      "PackagePath": "staticwebassets\\img\\icons\\12.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\13.png",
+      "PackagePath": "staticwebassets\\img\\icons\\13.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\14.png",
+      "PackagePath": "staticwebassets\\img\\icons\\14.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\15.png",
+      "PackagePath": "staticwebassets\\img\\icons\\15.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\16.png",
+      "PackagePath": "staticwebassets\\img\\icons\\16.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\2.png",
+      "PackagePath": "staticwebassets\\img\\icons\\2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\3.png",
+      "PackagePath": "staticwebassets\\img\\icons\\3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\4.png",
+      "PackagePath": "staticwebassets\\img\\icons\\4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\5.png",
+      "PackagePath": "staticwebassets\\img\\icons\\5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\6.png",
+      "PackagePath": "staticwebassets\\img\\icons\\6.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\7.png",
+      "PackagePath": "staticwebassets\\img\\icons\\7.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\8.png",
+      "PackagePath": "staticwebassets\\img\\icons\\8.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\9.png",
+      "PackagePath": "staticwebassets\\img\\icons\\9.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\app-store.png",
+      "PackagePath": "staticwebassets\\img\\icons\\app-store.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\care_01.png",
+      "PackagePath": "staticwebassets\\img\\icons\\care_01.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\care_02.png",
+      "PackagePath": "staticwebassets\\img\\icons\\care_02.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\care_03.png",
+      "PackagePath": "staticwebassets\\img\\icons\\care_03.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\care_04.png",
+      "PackagePath": "staticwebassets\\img\\icons\\care_04.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\ctg_1.png",
+      "PackagePath": "staticwebassets\\img\\icons\\ctg_1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\ctg_2.png",
+      "PackagePath": "staticwebassets\\img\\icons\\ctg_2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\ctg_3.png",
+      "PackagePath": "staticwebassets\\img\\icons\\ctg_3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\ctg_4.png",
+      "PackagePath": "staticwebassets\\img\\icons\\ctg_4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\ctg_5.png",
+      "PackagePath": "staticwebassets\\img\\icons\\ctg_5.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\ctg_6.png",
+      "PackagePath": "staticwebassets\\img\\icons\\ctg_6.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\ctg_7.png",
+      "PackagePath": "staticwebassets\\img\\icons\\ctg_7.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\payments.png",
+      "PackagePath": "staticwebassets\\img\\icons\\payments.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\play-store.png",
+      "PackagePath": "staticwebassets\\img\\icons\\play-store.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\price_1.png",
+      "PackagePath": "staticwebassets\\img\\icons\\price_1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\price_2.png",
+      "PackagePath": "staticwebassets\\img\\icons\\price_2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\price_3.png",
+      "PackagePath": "staticwebassets\\img\\icons\\price_3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\secure_pay.jpg",
+      "PackagePath": "staticwebassets\\img\\icons\\secure_pay.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\service_1.png",
+      "PackagePath": "staticwebassets\\img\\icons\\service_1.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\service_2.png",
+      "PackagePath": "staticwebassets\\img\\icons\\service_2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\service_3.png",
+      "PackagePath": "staticwebassets\\img\\icons\\service_3.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\icons\\service_4.png",
+      "PackagePath": "staticwebassets\\img\\icons\\service_4.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\notfound\\cart-empty.jpg",
+      "PackagePath": "staticwebassets\\img\\notfound\\cart-empty.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\order-service-empty.png",
+      "PackagePath": "staticwebassets\\img\\order-service-empty.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\inst_port_1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\inst_port_1.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\inst_port_2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\inst_port_2.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\inst_port_3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\inst_port_3.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\inst_port_4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\inst_port_4.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\inst_port_5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\inst_port_5.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\inst_port_6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\inst_port_6.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\inst_port_7.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\inst_port_7.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\inst_port_8.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\inst_port_8.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\inst_port_9.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\inst_port_9.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\port_1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\port_1.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\port_2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\port_2.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\port_3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\port_3.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\port_4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\port_4.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\port_5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\port_5.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\port_6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\port_6.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\port_7.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\port_7.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\port_8.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\port_8.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\portfolio\\port_9.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\port_9.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p10.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p10.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p11.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p11.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p12.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p12.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p13.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p13.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p14.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p14.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p15.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p15.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p16.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p16.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p17.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p17.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p18.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p18.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p19.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p19.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p20.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p20.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p21.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p21.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p22.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p22.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p23.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p23.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p24.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p24.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p25.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p25.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p26.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p26.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p27.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p27.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p28.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p28.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p29.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p29.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p30.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p30.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p31.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p31.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p32.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p32.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p33.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p33.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p34.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p34.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p35.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p35.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p36.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p36.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p37.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p37.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p38.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p38.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p39.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p39.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p40.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p40.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p41.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p41.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p42.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p42.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p43.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p43.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p44.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p44.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p45.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p45.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p46.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p46.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p47.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p47.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p48.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p48.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p49.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p49.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p5.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p50.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p50.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p6.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p7.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p8.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\products\\p9.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\p9.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\profile-user-2.png",
+      "PackagePath": "staticwebassets\\img\\profile-user-2.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\profile-user.png",
+      "PackagePath": "staticwebassets\\img\\profile-user.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_1.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_10.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_10.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_11.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_11.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_2.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_3.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_4.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_4.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_5.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_5.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_6.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_6.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_7.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_7.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_8.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_8.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\full_slider_9.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\full_slider_9.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_1.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_10.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_10.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_11.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_11.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_12.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_12.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_13.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_13.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_2.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_3.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_5.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_5.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_6.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_6.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_7.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_7.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_8.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_8.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\slider\\slider_9.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_9.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\4.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\testmonial\\01.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\01.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\testmonial\\02.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\02.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\testmonial\\03.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\03.png"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\img\\testmonial\\testi_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\testmonial\\testi_bg.jpg"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\checkout-form.js",
+      "PackagePath": "staticwebassets\\js\\checkout-form.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\export-excel.js",
+      "PackagePath": "staticwebassets\\js\\export-excel.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\jquery.scrollUp.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\list-product.js",
+      "PackagePath": "staticwebassets\\js\\list-product.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\vendor\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Syllabus\\2025_Spring\\SWD392\\swp-pet-store-main\\PetStoreProject\\PetStoreProject\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.PetStoreProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.PetStoreProject.props",
+      "PackagePath": "build\\PetStoreProject.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PetStoreProject.props",
+      "PackagePath": "buildMultiTargeting\\PetStoreProject.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.PetStoreProject.props",
+      "PackagePath": "buildTransitive\\PetStoreProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
